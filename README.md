@@ -12,7 +12,7 @@ https://mehedi-x.github.io/amazon-signin-navbar/
 - Improve CSS positioning and styling skills
 - Build a reusable navbar component
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5** – Page structure
 - **CSS3** – Styling, layout, and alignment
 
