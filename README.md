@@ -31,5 +31,5 @@ amazon-signin-navbar/
 ├── index.html
 ├── style.css
 └── README.md
-Author
+## Author
 Md. Mehedi Hasan
